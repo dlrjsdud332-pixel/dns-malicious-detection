@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+
+.DS_Store
+.vscode/
+
+# Virtual environment
+dns-env/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+data/
+*.csv
+*.zip
+
+# Model / experiment outputs
+models/
+runs/
+.~lock.*
